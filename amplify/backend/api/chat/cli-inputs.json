@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "chat",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\user\\Desktop\\Courses\\awsapp\\amplify\\backend\\api\\chat\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

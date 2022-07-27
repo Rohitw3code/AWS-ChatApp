@@ -16,5 +16,26 @@
         "chat769ecb66": {}
       }
     }
+  },
+  "devi": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chat-devi-171404-authRole",
+      "UnauthRoleArn": "arn:aws:iam::052911411026:role/amplify-chat-devi-171404-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::052911411026:role/amplify-chat-devi-171404-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-chat-devi-171404-deployment",
+      "UnauthRoleName": "amplify-chat-devi-171404-unauthRole",
+      "StackName": "amplify-chat-devi-171404",
+      "StackId": "arn:aws:cloudformation:us-east-1:052911411026:stack/amplify-chat-devi-171404/6e088020-0da1-11ed-b0c7-0e5fb6478cd3",
+      "AmplifyAppId": "d1hki8w5tob5s7"
+    },
+    "categories": {
+      "auth": {
+        "chat769ecb66": {}
+      },
+      "function": {
+        "chat9788b08b": {}
+      }
+    }
   }
 }
